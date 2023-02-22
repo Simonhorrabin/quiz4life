@@ -33,11 +33,11 @@
     font-weight: bold;
   }
   
-  #user-score {
+  #your-score {
     color: #4c034e;
   }
   
-  #total-score {
+  #final-score {
     color: #000000
   }
   
@@ -52,3 +52,17 @@
     margin: 6px;
     cursor: pointer;
   }
+  .options {
+    padding: 10px;
+    order: 3;
+  }
+
+  .controls {
+    padding: 10px;
+    order: 4;
+  }
+
+  .hide {
+    display: none;
+  }
+
