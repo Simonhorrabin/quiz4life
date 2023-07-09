@@ -20,10 +20,11 @@ This is a timed coding quiz with multiple-choice questions. The app is written f
 - JavaScript
   
 ## Demo
-C:\Users\simon\quiz4life\Images\Screenshot 2023-02-27 215646.png
-C:\Users\simon\quiz4life\Images\Screenshot 2023-02-27 215710.png
-C:\Users\simon\quiz4life\Images\Screenshot 2023-02-27 220054.png
-C:\Users\simon\quiz4life\Images\Screenshot 2023-07-09 150852.png
+<img width="626" alt="Screenshot 2023-02-27 215646" src="https://github.com/Simonhorrabin/quiz4life/assets/123128833/86429f30-b899-47fa-be7f-ee09ea232629">
+<img width="695" alt="Screenshot 2023-02-27 215710" src="https://github.com/Simonhorrabin/quiz4life/assets/123128833/f8ed02f4-0efe-4036-a63b-6062aa126ddf">
+<img width="710" alt="Screenshot 2023-02-27 220054" src="https://github.com/Simonhorrabin/quiz4life/assets/123128833/4a8656da-ca3f-4450-920a-9e38d6fc488e">
+![Screenshot 2023-07-09 150852](https://github.com/Simonhorrabin/quiz4life/assets/123128833/43cc8006-03c5-4713-96bb-14d82e8a822e)
+
 
 ## Websites
 - GitHub: https://github.com/Simonhorrabin/quiz4life
